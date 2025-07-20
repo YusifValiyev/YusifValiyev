@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yusifvaliyev&label=Profile%20views&color=0e75b6&style=flat" alt="yusifvaliyev" /> </p>
 
-- 🔭 I’m currently working on **Cheweek LLC**
+- 🔭 I’m currently working on **BankRespublika**
 
 - 🌱 I’m currently learning **React-Native, Angular and Express**
 
